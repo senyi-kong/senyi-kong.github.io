@@ -63,4 +63,8 @@
 }
 @media print{.activity{break-inside:avoid}.activity-grid{display:block}.activity{margin-bottom:20px}.activity-media,.activity-sport .activity-media{max-height:160px;min-height:0;flex:initial;aspect-ratio:3/1}.activity-placeholder{background:#f5f5f5;color:#23303b}.activity-sport .placeholder-word,.placeholder-word{font-size:2rem;padding:0}.activity-sport .placeholder-word em{color:inherit}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+.research-profiles{margin:28px 0 0;color:var(--muted);font-size:.9375rem}
+.publication-body .paper-figure{background:#fff}
+.publication-body .paper-figure img{width:100%;min-width:0;max-height:640px;object-fit:contain;margin-bottom:16px}
+.paper-figure>a{display:block;cursor:zoom-in}
 @media print{.site-header,.skip-link,.download-links,footer{display:none}.shell{width:100%}.intro{padding-top:0}.section{break-inside:auto}body{font-size:11pt}.publication-body{display:block}a{color:inherit}.portrait-panel{width:150px}}
