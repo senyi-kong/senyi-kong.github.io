@@ -4,8 +4,8 @@ Personal academic website for Senyi Kong, Zhejiang University.
 
 ## Permanent addresses
 
-- Homepage: https://cosn-k.github.io/
-- CV downloads: https://cosn-k.github.io/cv/
+- Homepage: https://senyi-kong.github.io/
+- CV downloads: https://senyi-kong.github.io/cv/
 
 These are the intended destinations for the printed QR codes. Do not rename the account, repository, or `cv` directory after printing unless the old addresses remain functional.
 
