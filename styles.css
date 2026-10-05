@@ -68,3 +68,5 @@
 .publication-body .paper-figure img{width:100%;min-width:0;max-height:640px;object-fit:contain;margin-bottom:16px}
 .paper-figure>a{display:block;cursor:zoom-in}
 @media print{.site-header,.skip-link,.download-links,footer{display:none}.shell{width:100%}.intro{padding-top:0}.section{break-inside:auto}body{font-size:11pt}.publication-body{display:block}a{color:inherit}.portrait-panel{width:150px}}
+
+.opportunity-status{color:var(--accent);font-size:1rem;margin:0 0 20px;max-width:680px}
